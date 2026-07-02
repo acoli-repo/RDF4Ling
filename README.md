@@ -1,2 +1,5 @@
-# lexical-knowledge-graphs-lssl-2026
-Materials of the Tutorial on Lexical Knowledge Graphs at LSSL 2026
+# RDF for Linguists
+
+Introductory materials for teaching basic RDF technologies to students from linguistics and the philologies.
+
+This is largely for collecting material accompanying university courses and various summer schools, see their respective pages on their respective platform for more complete course materials.
